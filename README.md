@@ -1,5 +1,5 @@
 
-<img src="http://119.23.155.48/game/images/icon/majiang.jpg" width=200>
+<img src="http://119.23.155.48/game/images/icon/mmqp.jpg" width=200>
 
 陌陌棋牌
 
